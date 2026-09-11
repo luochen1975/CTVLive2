@@ -6686,7 +6686,6 @@ ZÉ BUSCAPÉ,https://stream1.freetv.fun/0e2c0d32d03fa0a6cde6db6bdfcd6633b0ca2475
 ◆◆◆　https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt
 ◆◆◆　https://fm1077.serv00.net/SmartTV.m3u
 ◆◆◆　https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-北京卡通,http://125.42.148.178:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 ◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
